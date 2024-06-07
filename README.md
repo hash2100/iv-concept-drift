@@ -6,6 +6,8 @@ This is a sample script on how to represent the concept drift with Parallel Hist
 
 ## Usage
 
+Install the required packages, then proceed with the unzipping of the datasets:
+
 ```bash
 pip install -r requirements.txt
 cd data/
